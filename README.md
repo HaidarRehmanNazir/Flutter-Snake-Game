@@ -38,9 +38,8 @@ Get ready to relive the joy of the Snake game in a modern Flutter twist. Happy c
 Feel free to customize it further to match the specifics of your project!
 
 
-## Screenshots
 
-
+<a href=""![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEhYpupn21Uc1_DaEpINY5DMdfcIisS0T0lu4vSOMnZ6pqaTuOIJli4tpqb0eWXUL390G6TWpqbxJn-1GJjxvMGal5SUYPgo2foDYsW9yA3K3ZYByrRsqa3JIJ40OYJcMebOMwM5cfjWsBb3AUZQEE6yRt1ZiUKZcf1lXUxMX08hJqrdtBjF2pC-WV2i) </a>
 
 
 ## Authors
